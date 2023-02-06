@@ -1,0 +1,18 @@
+{
+    "dbb": {
+        "prefixes": {
+            "main": "!Bonjour",
+            "servers": {}
+        },
+        "owners": [
+            "8"
+        ]
+    },
+    "discord": {
+        "servers": {},
+        "members": {},
+        "users": {}
+    },
+    "blocks": {},
+    "custom": {}
+}

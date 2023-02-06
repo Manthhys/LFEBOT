@@ -1,0 +1,43 @@
+[
+    {
+        "info": {
+            "title": "Test",
+            "description": "Bonjour au nouveau arrivant\n\n",
+            "thumbnail": "https://cdn.top-serveurs.net/banners/619cf0d851947.png"
+        },
+        "blocks": [
+            {
+                "name": "set_bot_status",
+                "info": {
+                    "x": 349,
+                    "y": 347,
+                    "z": 1,
+                    "color": "#5a5a5a",
+                    "height": 105,
+                    "width": 365
+                },
+                "inputs": {
+                    "action": "LOmNMWRHdr"
+                },
+                "options": {
+                    "status_type": "online"
+                },
+                "outputs": {
+                    "action": []
+                }
+            }
+        ],
+        "notes": [
+            {
+                "title": "Mise en ligne du bot",
+                "description": "le bot apparais en ligne \n",
+                "color": "#5a5a5a",
+                "x": 916,
+                "y": 132,
+                "z": 1,
+                "width": 400,
+                "height": 400
+            }
+        ]
+    }
+]
