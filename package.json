@@ -1,17 +1,22 @@
 {
-    "name": "discord-bot-builder-bot",
-    "author": "Discord Bot Builder",
-    "description": "Discord bot created with Discord Bot Builder.",
-    "version": "0.3.3",
-    "main": "bot.js",
-    "scripts": {
-        "start": "node bot.js"
-    },
-    "dependencies": {
-        "discord-player": "^5.4.0",
-        "discord.js": "^14.7.1",
-        "ffmpeg-static": "^5.1.0",
-        "fstorm": "^0.1.3",
-        "semver": "^7.3.8"
-    }
+  "name": "bot_test_v0_0_1",
+  "version": "1.0.0",
+  "description": "bot test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manthhys/LFEBOT.git"
+  },
+  "author": "motard/manthys/kit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manthhys/LFEBOT/issues"
+  },
+  "homepage": "https://github.com/Manthhys/LFEBOT#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
 }
